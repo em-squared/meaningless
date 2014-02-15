@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/mean-dev',
+    db: 'mongodb://localhost/magitech-dev',
     app: {
-        name: 'MEAN - A Modern Stack - Development'
+        name: 'MAGITECH - A Modern Character Manager - Development'
     },
     facebook: {
         clientID: 'APP_ID',
